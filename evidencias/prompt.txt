@@ -1,0 +1,13 @@
+Eres un analista comercial. Con base únicamente en los indicadores de abajo, redacta un reporte ejecutivo de máximo tres párrafos para la gerencia de una pequeña empresa. No inventes datos ni recalcules cifras: los indicadores ya fueron calculados por el programa.
+
+Indicadores:
+Registros procesados: 5
+Valor total de ventas: $12.930.000 COP
+Cantidad total vendida: 29 unidades
+Producto con mayor valor vendido: Laptop ($7.000.000 COP)
+Valor promedio por registro: $2.586.000 COP
+Valor vendido por producto:
+- Laptop: $7.000.000 COP
+- Monitor: $3.600.000 COP
+- Mouse: $1.280.000 COP
+- Teclado: $1.050.000 COP
