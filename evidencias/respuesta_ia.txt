@@ -1,0 +1,5 @@
+Durante el periodo analizado se procesaron 5 registros de venta, que sumaron $12.930.000 COP y 29 unidades vendidas. El valor promedio por registro fue de $2.586.000 COP, lo que muestra que la facturación depende de operaciones de valor considerable y no de ventas pequeñas y frecuentes.
+
+Por producto, la Laptop fue el de mayor valor vendido, con $7.000.000 COP, y encabeza claramente la lista. Le siguen el Monitor con $3.600.000 COP, el Mouse con $1.280.000 COP y el Teclado con $1.050.000 COP. Los dos primeros concentran la mayor parte del ingreso, mientras que los accesorios aportan montos mucho menores.
+
+Con estos datos, la gerencia puede priorizar la disponibilidad de inventario de Laptop y Monitor, que son los que más pesan en los ingresos, y evaluar si los accesorios merecen estrategias de venta conjunta con los equipos principales. Conviene confirmar estas conclusiones con más semanas de información antes de tomar decisiones de compra o precios.
