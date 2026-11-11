@@ -5,6 +5,10 @@ Técnicas de Programación y Laboratorio · Universidad de Antioquia
 Aplicación Java (Maven) que lee `datos/ventas.csv`, calcula indicadores de ventas, genera una gráfica
 y construye un prompt para que una IA redacte un reporte ejecutivo de máximo tres párrafos.
 
+# Integrantes:
+Cristian Alejandro Muñoz Bolaños
+Lydia Stella Reyes Celis
+
 ## Requisitos
 - JDK 17 o superior
 - Maven
