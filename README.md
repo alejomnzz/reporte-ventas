@@ -6,8 +6,8 @@ Aplicación Java (Maven) que lee `datos/ventas.csv`, calcula indicadores de vent
 y construye un prompt para que una IA redacte un reporte ejecutivo de máximo tres párrafos.
 
 ## Integrantes:
-Cristian Alejandro Muñoz Bolaños
-Lydia Stella Reyes Celis
+- Cristian Alejandro Muñoz Bolaños
+- Lydia Stella Reyes Celis
 
 ## Requisitos
 - JDK 17 o superior
